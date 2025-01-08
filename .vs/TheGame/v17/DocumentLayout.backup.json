@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirr\\Desktop\\TheGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\mainmenugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\mainmenugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|c:\\users\\emirr\\desktop\\thegame\\assets\\thegame\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\missileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\missileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\enemydrops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\enemydrops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\optionsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\optionsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\effectscleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\effectscleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\helicopterdoors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\helicopterdoors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\combatgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\combatgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\playergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\playergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|C:\\Users\\Emirr\\Desktop\\TheGame\\assets\\thegame\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA2A83-20D3-BCD3-69D6-835896A69D33}|Assembly-CSharp.csproj|solutionrelative:assets\\thegame\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RifleWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\RifleWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\RifleWeapon.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\RifleWeapon.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\RifleWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:48:17.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:36:41.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EffectsCleanup.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EffectsCleanup.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\EffectsCleanup.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EffectsCleanup.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\EffectsCleanup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:28:52.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\EnemyAttack.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Medkit.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Medkit.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Medkit.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Medkit.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Medkit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:56:11.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyDrops.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyDrops.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\EnemyDrops.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyDrops.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\EnemyDrops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:05:39.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuGui.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\MainMenuGui.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\MainMenuGui.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\MainMenuGui.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\MainMenuGui.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:11:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Missile.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Missile.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Missile.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Missile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:43:06.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissileWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\MissileWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\MissileWeapon.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\MissileWeapon.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\MissileWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:47:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:03:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemySpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemySpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\EnemySpawnManager.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemySpawnManager.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\EnemySpawnManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:27:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OptionsGui.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\OptionsGui.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\OptionsGui.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\OptionsGui.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\OptionsGui.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:43:56.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:04:38.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Helicopter.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Helicopter.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Helicopter.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:10:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:59:17.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CombatGui.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\CombatGui.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\CombatGui.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\CombatGui.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\CombatGui.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:17:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HelicopterDoors.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\HelicopterDoors.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\HelicopterDoors.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\HelicopterDoors.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\HelicopterDoors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:24:29.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerGui.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerGui.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\PlayerGui.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerGui.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\PlayerGui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:37:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ragdoll.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Ragdoll.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\Ragdoll.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\Ragdoll.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\Ragdoll.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:28:15.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\PlayerAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:46:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:20:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:36:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\TheGame\\Scripts\\EnemyAnimation.cs",
+              "ToolTip": "C:\\Users\\Emirr\\Desktop\\TheGame\\Assets\\TheGame\\Scripts\\EnemyAnimation.cs",
+              "RelativeToolTip": "Assets\\TheGame\\Scripts\\EnemyAnimation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:28:07.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

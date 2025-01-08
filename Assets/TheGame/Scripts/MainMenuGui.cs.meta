@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4a95f983dde1aa54eb6377a7e65dd546
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _guiSkin: {fileID: 11400000, guid: 8c524365de4766c48af8becd37561c7f, type: 2}
+  - _mainMenuBg: {fileID: 2800000, guid: 300155c0c50585546b73a153740111e5, type: 3}
+  - _title: {fileID: 2800000, guid: 6ce6125aaa2eaf240b454578a0293cc5, type: 3}
+  - _newGameButton: {fileID: 2800000, guid: 738c88578bdce244399a6f134584cdee, type: 3}
+  - _optionsButton: {fileID: 2800000, guid: ce3e95002804eab418a1cfca31cc7449, type: 3}
+  - _quitButton: {fileID: 2800000, guid: e0deb7b8f4a3eea4595e918217c9a916, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
