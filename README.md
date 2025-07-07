@@ -4,7 +4,7 @@ Bu proje, üniversite eğitimi kapsamında bir eğitim dokümanı rehberliğinde
 
 ## 🚁 Ekran Görüntüleri
 
-[![Oyun İçi Görüntü 1](link-buraya-gelecek-1)](link-buraya-gelecek-1)
+[![Oyun İçi Görüntü 1](https://github.com/emircopur/ZombiOyunu/blob/main/Zombi%201.jpg?raw=true)](link-buraya-gelecek-1)
 [![Oyun İçi Görüntü 2](link-buraya-gelecek-2)](link-buraya-gelecek-2)
 
 *Resimlere tıkladığınızda tam boyutlarını görebilirsiniz.*
