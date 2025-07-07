@@ -10,10 +10,6 @@ Bu proje, üniversite eğitimi kapsamında bir eğitim dokümanı rehberliğinde
 
 
 
-*Resimlere tıkladığınızda tam boyutlarını görebilirsiniz.*
-
----
-
 ## 🚀 Projenin Amacı
 
 Bu projenin temel amacı, Unity oyun motorunun 3D mekaniklerini, C# ile script yazmayı, temel oyun geliştirme döngüsünü ve basit yapay zeka uygulamalarını deneyimlemektir. Bir tutorial'ı takip ederek 3D bir ortamda etkileşimli bir oyun prototipi oluşturma hedeflenmiştir.
